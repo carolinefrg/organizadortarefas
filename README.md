@@ -1,2 +1,2 @@
-# projeto_match
-Projeto realizado para o módulo de desenvolvimento web do programa Match!
+# projeto organizador de tarefas
+projeto de um organizador de tarefas utilizando python e django
